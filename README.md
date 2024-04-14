@@ -9,4 +9,4 @@ tells you the current date
 # matchfind
 finds a match in your files by inputting a keyword
 # random 
-gives you a random number between 1 and 100
+gives you a random number between 1 and any number
